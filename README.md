@@ -79,3 +79,13 @@ Then open the local Streamlit URL shown in the terminal.
 
 - Uploaded PDFs are written to the `temp/` folder during processing.
 - Make sure your API keys are valid before running the app.
+
+metadata
+title: HybridMind
+emoji: 🔥
+colorFrom: green
+colorTo: indigo
+sdk: docker
+pinned: false
+license: apache-2.0
+short_description: HybridMind is a Streamlit app that answers questions
