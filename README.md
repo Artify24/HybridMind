@@ -9,7 +9,7 @@ python_version: "3.10"
 app_file: app.py
 pinned: false
 license: apache-2.0
-short_description: HybridMind is a Streamlit app that answers questions using PDFs and web search
+short_description: PDF and web search Q&A with RAG
 ---
 
 # HybridMind
